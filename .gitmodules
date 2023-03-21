@@ -1,3 +1,0 @@
-[submodule "hello_world"]
-	path = hello_world
-	url = ./guessing_game
